@@ -8,7 +8,8 @@ Contexto:
 Proposta: Vamos dar continuidade ao projeto de e-commerce que iniciamos no primeiro desafio
 <a href="https://github.com/srtakatsumi/Gamma_Challenge">primeiro desafio</a>. Vamos trabalhar aspectos de construção em um BackEnd para expor uma API
 
-Prazo: entrega final dia 12/06 às 11:59:00 (Horário de brasilia)
+Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
+
 
 <p>Sprints: <br></p>
        - Recursos Humanos:  Amanda, Luciana, Victoria e Professores da Gama <br>
@@ -22,7 +23,7 @@ Prazo: entrega final dia 12/06 às 11:59:00 (Horário de brasilia)
      - Pauta: 
             - Tempo de cada processo;
             - Nivel de conhecimento sobre o tema;
-            - 
+            
   
   Estimativa: 1 dias
    - [] Status da Sprint: WIP 
@@ -37,7 +38,7 @@ Prazo: entrega final dia 12/06 às 11:59:00 (Horário de brasilia)
 
 # Sprint 02 - API 
 
-  _Reaproveitar o <a href="https://github.com/srtakatsumi/Gamma_Challenge/tree/main/Atividade-parte-III"> Banco de dados </a>  que criamos no MySQL no desafio anterior.
+  _ Iremos reaproveitar o <a href="https://github.com/srtakatsumi/Gamma_Challenge/tree/main/Atividade-parte-III"> Banco de dados </a>  que criamos no MySQL no desafio anterior.
   - E expor uma API para consultar/cadastrar os objetos no banco de dados
 
   _Novos requisitos surgiram, deverá ser desenvolvido novos códigos em JavaScript onde os gestores agora possam filtrar os produtos listando o mais caro e o mais barato junto de seu departamento, listar produtos em destaque e seu respectivo ticket médio (soma do valor dos produtos em destaque dividido pela quantidade de produtos em destaque)._
@@ -45,20 +46,16 @@ Prazo: entrega final dia 12/06 às 11:59:00 (Horário de brasilia)
  Estimativa: 1 dias
    - [] Status da Sprint: PENDING 
 
-|                         Tarefa                          | Estimativa |  Início  |  Término  |    Status     |
-|---------------------------------------------------------|------------|----------|-----------|---------------|
-|Listar produto mais caro do estoque e seu departamento   |    3 hrs   | 11/05/21 | 12/05/21  |      DONE     |
-|Listar produto mais barato do estoque e seu departamento |    3 hrs   | 11/05/21 | 12/05/21  |      DONE     |
-|Quantidade de produtos em destaque                       |    2 hrs   | 12/05/21 | 13/05/21  |      DONE     |
-|Listar produtos em destaque                              |    2 hrs   | 11/05/21 | 12/05/21  |      DONE     |
-|Listar produtos disponíveis                              |    2 hrs   | 11/05/21 | 12/05/21  |      DONE     |
-|Ticket médio dos produtos em destaque                    |    4 hrs   | 12/05/21 | 13/05/21  |      DONE     |
-|Listar produtos indisponíveis                            |    3 hrs   | 12/05/21 | 13/05/21  |      DONE     |
-|Realizar os primeiros testes                             |    4 hrs   | 12/05/21 | 13/05/21  |      DONE     |
+|                            Tarefa                             | Estimativa |  Início  |  Término  | Responsável |   Status     |
+|---------------------------------------------------------------|------------|----------|-----------|-------------|--------------|
+|Link do projeto do GIT                                         |    1 hrs   | 31/05/21 |  04/06/21 |   VICTORIA  |     DONE     |
+|Descrição de como rodar tudo descrito no README do Repositório |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
 
 
 
-# Sprint 0 - Entrega final 
+
+
+# Sprint 03 - Entrega final 
   Nessa ultima etapa vamos falar validar se todos os requisitos para a entrega está correto
     - A descrição do README deve explicar desde baixar/clonar o repositório até quais dependências/bibliotecas foram utilizadas;
     - Base de testes, quais ID de produto ou departamento retornam valores válidos e quais retornam códigos referentes a IDs não encontrados ou mesmo quais casos de testes retornam BAD REQUEST
@@ -69,7 +66,7 @@ Prazo: entrega final dia 12/06 às 11:59:00 (Horário de brasilia)
 
 |                            Tarefa                             | Estimativa |  Início  |  Término  | Responsável |   Status     |
 |---------------------------------------------------------------|------------|----------|-----------|-------------|--------------|
-|Link do projeto do GIT                                         |    1 hrs   | 31/05/21 |  31/05/21 |   VICTORIA  |     DONE     |
-|Descrição de como rodar tudo descrito no README do Repositório |    1 hrs   | 31/05/21 |  31/05/21 |       -     |    PENDING   |
-|Base de testes                                                 |    1 hrs   | 31/05/21 |  31/05/21 |   VICTORIA  |    PENDING   |
-|O código deve rodar sem exceptions                             |    1 hrs   | 31/05/21 |  31/05/21 |   VICTORIA  |    PENDING   |
+|Link do projeto do GIT                                         |    1 hrs   | 31/05/21 |  04/06/21 |   VICTORIA  |     DONE     |
+|Descrição de como rodar tudo descrito no README do Repositório |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|Base de testes                                                 |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|O código deve rodar sem exceptions                             |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
