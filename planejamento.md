@@ -41,19 +41,14 @@ Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
   _ Iremos reaproveitar o <a href="https://github.com/srtakatsumi/Gamma_Challenge/tree/main/Atividade-parte-III"> Banco de dados </a>  que criamos no MySQL no desafio anterior.
   - E expor uma API para consultar/cadastrar os objetos no banco de dados
 
-  _Novos requisitos surgiram, deverá ser desenvolvido novos códigos em JavaScript onde os gestores agora possam filtrar os produtos listando o mais caro e o mais barato junto de seu departamento, listar produtos em destaque e seu respectivo ticket médio (soma do valor dos produtos em destaque dividido pela quantidade de produtos em destaque)._
 
- Estimativa: 1 dias
+ Estimativa: 3 dias
    - [] Status da Sprint: PENDING 
 
 |                            Tarefa                             | Estimativa |  Início  |  Término  | Responsável |   Status     |
 |---------------------------------------------------------------|------------|----------|-----------|-------------|--------------|
-|Link do projeto do GIT                                         |    1 hrs   | 31/05/21 |  04/06/21 |   VICTORIA  |     DONE     |
-|Descrição de como rodar tudo descrito no README do Repositório |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
-
-
-
-
+|Link do projeto do GIT                                         |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|Testes                                                         |    1 hrs   | 03/05/21 |  04/06/21 |       -     |    PENDING   |
 
 # Sprint 03 - Entrega final 
   Nessa ultima etapa vamos falar validar se todos os requisitos para a entrega está correto
