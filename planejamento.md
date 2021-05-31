@@ -31,7 +31,7 @@ Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
 
 |                        Tarefa                           | Estimativa |  Início  |  Término  | Responsável |   Status     |
 |---------------------------------------------------------|------------|----------|-----------|-------------|--------------|
-|Criar link do projeto                                    |    1 hrs   | 31/05/21 |  31/05/21 |   VICTORIA  |     DONE     |
+|Criar link do projeto para cada um                       |    1 hrs   | 31/05/21 |  31/05/21 |    TODES    |      WIP     |
 |Planejar a Sprint das tarefas                            |    3 hrs   | 31/05/21 |  31/05/21 |    TODES    |      WIP     |
 
 
@@ -61,7 +61,7 @@ Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
 
 |                            Tarefa                             | Estimativa |  Início  |  Término  | Responsável |   Status     |
 |---------------------------------------------------------------|------------|----------|-----------|-------------|--------------|
-|Link do projeto do GIT                                         |    1 hrs   | 31/05/21 |  04/06/21 |   VICTORIA  |     DONE     |
+|Link do projeto do GIT                                         |    1 hrs   | 31/05/21 |  04/06/21 |    TODES    |      DONE    |
 |Descrição de como rodar tudo descrito no README do Repositório |    1 hrs   | 31/05/21 |  04/06/21 |       -     |      WIP     |
 |Base de testes                                                 |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
 |O código deve rodar sem exceptions                             |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
