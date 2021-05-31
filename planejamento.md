@@ -47,7 +47,13 @@ Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
 
 |                            Tarefa                             | Estimativa |  Início  |  Término  | Responsável |   Status     |
 |---------------------------------------------------------------|------------|----------|-----------|-------------|--------------|
-|Link do projeto do GIT                                         |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|Endpoint                                                       |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|/produto                                                       |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|/produto/{id}                                                  |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|/produto                                                       |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|/produto/{id}                                                  |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|/departamento                                                  |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|/departamento/{id}                                             |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
 |Testes                                                         |    1 hrs   | 03/05/21 |  04/06/21 |       -     |    PENDING   |
 
 # Sprint 03 - Entrega final 
