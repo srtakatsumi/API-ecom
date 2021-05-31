@@ -67,6 +67,6 @@ Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
 |                            Tarefa                             | Estimativa |  Início  |  Término  | Responsável |   Status     |
 |---------------------------------------------------------------|------------|----------|-----------|-------------|--------------|
 |Link do projeto do GIT                                         |    1 hrs   | 31/05/21 |  04/06/21 |   VICTORIA  |     DONE     |
-|Descrição de como rodar tudo descrito no README do Repositório |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|Descrição de como rodar tudo descrito no README do Repositório |    1 hrs   | 31/05/21 |  04/06/21 |       -     |      WIP     |
 |Base de testes                                                 |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
 |O código deve rodar sem exceptions                             |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
