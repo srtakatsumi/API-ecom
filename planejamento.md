@@ -26,13 +26,13 @@ Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
             
   
   Estimativa: 1 dias
-   - [] Status da Sprint: WIP 
+   - [x] Status da Sprint: DONE
 
 
-|                        Tarefa                           | Estimativa |  Início  |  Término  | Responsável |   Status     |
+|                        Tarefa                           | Estimativa |  Início  |  Término  | Responsável |    Status    |
 |---------------------------------------------------------|------------|----------|-----------|-------------|--------------|
-|Criar link do projeto para cada um                       |    1 hrs   | 31/05/21 |  31/05/21 |    TODES    |      WIP     |
-|Planejar a Sprint das tarefas                            |    3 hrs   | 31/05/21 |  31/05/21 |    TODES    |      WIP     |
+|Criar link do projeto para cada um                       |    1 hrs   | 31/05/21 |  31/05/21 |    TODES    |     DONE     |
+|Planejar a Sprint das tarefas                            |    3 hrs   | 31/05/21 |  31/05/21 |    TODES    |     DONE     |
 
 
 
@@ -43,18 +43,18 @@ Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
 
 
  Estimativa: 3 dias
-   - [] Status da Sprint: PENDING 
+   - [ ] Status da Sprint: WIP 
 
 |                            Tarefa                             | Estimativa |  Início  |  Término  | Responsável |   Status     |
 |---------------------------------------------------------------|------------|----------|-----------|-------------|--------------|
-|Endpoint                                                       |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
-|/produto                                                       |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
-|/produto/{id}                                                  |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
-|/produto                                                       |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
-|/produto/{id}                                                  |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
-|/departamento                                                  |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
-|/departamento/{id}                                             |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
-|Testes                                                         |    1 hrs   | 03/05/21 |  04/06/21 |       -     |    PENDING   |
+|Endpoint                                                       |    1 hrs   | 31/05/21 |  04/06/21 |    TODES    |      WIP     |
+|/produto                                                       |    1 hrs   | 31/05/21 |  04/06/21 |    AMANDA   |    PENDING   |
+|/produto/{id}                                                  |    1 hrs   | 31/05/21 |  04/06/21 |    AMANDA   |      WIP     |
+|/produto                                                       |    1 hrs   | 31/05/21 |  04/06/21 |    LUCIANA  |      WIP     |
+|/produto/{id}                                                  |    1 hrs   | 31/05/21 |  04/06/21 |    LUCIANA  |      WIP     |
+|/departamento                                                  |    1 hrs   | 31/05/21 |  04/06/21 |   VICTORIA  |      WIP     |
+|/departamento/{id}                                             |    1 hrs   | 31/05/21 |  04/06/21 |   VICTORIA  |      WIP     |
+|Testes                                                         |    1 hrs   | 03/05/21 |  04/06/21 |    TODES    |      WIP     |
 
 # Sprint 03 - Entrega final 
   Nessa ultima etapa vamos falar validar se todos os requisitos para a entrega está correto
@@ -63,11 +63,11 @@ Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
     - O código deve rodar sem exceptions, no console do NODE nos casos que estão mencionados no README
     
  Estimativa: 1 dias
-   - [] Status da Sprint: PENDING 
+   - [ ] Status da Sprint: PENDING 
 
 |                            Tarefa                             | Estimativa |  Início  |  Término  | Responsável |   Status     |
 |---------------------------------------------------------------|------------|----------|-----------|-------------|--------------|
 |Link do projeto do GIT                                         |    1 hrs   | 31/05/21 |  04/06/21 |    TODES    |      DONE    |
-|Descrição de como rodar tudo descrito no README do Repositório |    1 hrs   | 31/05/21 |  04/06/21 |       -     |      WIP     |
-|Base de testes                                                 |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
-|O código deve rodar sem exceptions                             |    1 hrs   | 31/05/21 |  04/06/21 |       -     |    PENDING   |
+|Descrição de como rodar tudo descrito no README do Repositório |    1 hrs   | 31/05/21 |  04/06/21 |    TODES    |      WIP     |
+|Base de testes                                                 |    1 hrs   | 31/05/21 |  04/06/21 |    TODES    |      WIP     |
+|O código deve rodar sem exceptions                             |    1 hrs   | 31/05/21 |  04/06/21 |    TODES    |      WIP     |
