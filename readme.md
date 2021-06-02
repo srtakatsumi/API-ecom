@@ -1,3 +1,7 @@
+# Introdução
+
+A proposta do projeto de API é.....
+
 # Baixando o projeto
 
 <h4>Desafio em grupo criando uma API:</h4>
@@ -9,7 +13,7 @@ Para instalar as dependências do projeto: <b>npm install desafio_em_grupo_parte
 Para iniciar a aplicação: <b>npm start </b>
 
 
-#Sobre o projeto
+# Sobre o projeto
 
 Temos o arquivo index.js que irá executar a API.
 
