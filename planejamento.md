@@ -2,8 +2,8 @@
 
 
 Contexto:
- <p> _Somos parte de uma equipe de desenvolvimento de software que está criando uma série de ferramentas para gestão de eCommerces. Neste sentido, precisamos atender algumas necessidades de gestores destas plataformas. Precisamos criar soluções para ajudar nossos gestores a extrair dados de inventários de seus respectivos estoques._</p>
-
+ <p> _Somos parte de uma equipe de desenvolvimento de software que está criando uma série de ferramentas para gestão de eCommerces. Neste sentido, precisamos atender algumas necessidades de gestores destas plataformas. Precisamos criar soluções para ajudar nossos gestores a extrair dados de inventários de seus respectivos estoques._ </p>
+ 
 
 Proposta: Vamos dar continuidade ao projeto de e-commerce que iniciamos no primeiro desafio
 <a href="https://github.com/srtakatsumi/Gamma_Challenge">primeiro desafio</a>. Vamos trabalhar aspectos de construção em um BackEnd para expor uma API
