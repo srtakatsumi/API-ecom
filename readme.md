@@ -4,7 +4,7 @@
 
 Para baixar o repositório : <b>git clone https://github.com/srtakatsumi/API-ecom </b>
 
-Para instalar as dependências do projeto: <b>npm i</b>
+Para instalar as dependências do projeto: <b>npm install desafio_em_grupo_parte_I</b>
 
 Para iniciar a aplicação: <b>npm start </b>
 
