@@ -39,7 +39,7 @@ Dentro do Postman colocar a chamada POST:<br>
 - <a href="http://localhost:8888/incluirproduto"> /incluirproduto</a>, inclui produtos na url <br>
 <br>
 Dentro do Postman colocar a chamada PUT:<br>
-- <br>
+- <a href="http://localhost:8888/alterarproduto/">/alterarproduto/:id </a>, altera um unico produto<br>
 
 <br>    
 # Bibliotecas
