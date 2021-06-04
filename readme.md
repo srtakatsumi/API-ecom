@@ -34,16 +34,17 @@ Como interagir com o localhost e localizar os dados:<br>
 - <a href="http://localhost:8888/produtoid/:id">/produtoid/:id</a> <br>
 - <a href="http://localhost:8888/listaDepartamento"> /listaDepartamento</a> <br>
 - <a href="http://localhost:8888/departamento/:id"> /departamento/:id</a> <br>
-
+<br>
 POST:<br>
 - <br>
 - <br>
 - <br>
+<br>
 PUT:<br>
 - <br>
 - <br>
 - <br>
-      
+<br>    
 # Bibliotecas
 
 - Express <br>
