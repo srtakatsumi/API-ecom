@@ -23,17 +23,17 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 # Sobre o projeto
 
 <p> Como executar a API: </p> <br>
-      - abrir na web (firefox, chrome, explore) <a href="http://localhost:8000/">http://localhost:8000/</a>; <br>
+      - abrir na web (firefox, chrome, explore) <a href="http://localhost:8888/">http://localhost:8000/</a>; <br>
       - é possivel acessar através do <a href="https://www.postman.com/downloads/">postman, clique aqui</a>, para fazer o download; <br>
       - também é possivel utilizar o <a href="https://web.postman.co/home">postman online</a>.<br>
       <br>
 Como interagir com o localhost e localizar os dados:<br>
 <br>
  GET: <br>           
-- <a href="http://localhost:8000/rodutoslista"> /produtoslista</a></a> <br>
-- <a href="http://localhost:8000/produtoid/:id">/produtoid/:id</a> <br>
-- <a href="http://localhost:8000/listaDepartamento"> /listaDepartamento</a> <br>
-- <a href="http://localhost:8000/departamento/:id"> /departamento/:id</a> <br>
+- <a href="http://localhost:8888/rodutoslista"> /produtoslista</a></a> <br>
+- <a href="http://localhost:8888/produtoid/:id">/produtoid/:id</a> <br>
+- <a href="http://localhost:8888/listaDepartamento"> /listaDepartamento</a> <br>
+- <a href="http://localhost:8888/departamento/:id"> /departamento/:id</a> <br>
 
 POST:<br>
 - <br>
