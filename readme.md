@@ -23,14 +23,9 @@ Para iniciar a aplicação: <b>npm run dev </b>
 Temos o arquivo index.js que irá executar a API.
 
 <p> Como executar a API: </p> <br>
-      - abrir na web (firefox, chrome, explore) <a href="http://localhost:8000/">http://localhost:8000/</a> <br>
-      - Ou através do <a href="https://www.postman.com/downloads/">postman</a> <br>
+      - abrir na web (firefox, chrome, explore) <a href="http://localhost:8000/">http://localhost:8000/</a> <br>;
+      - é possivel acessar através do <a href="https://www.postman.com/downloads/">postman, clique</a> <br>, para fazer o download;
       
-<p> Pasta controlles está localizada todas as configurações do projeto.<br> </p>
-      - <br>
-      - <br>
-      - <br>
- 
 Como interagir com o localhost e localizar os dados:<br>
             - <a href="http://localhost:8000/rodutoslista"> /produtoslista</a></a> <br>
             - <a href="http://localhost:8000/produtoid/:id">/produtoid/:id</a> <br>
