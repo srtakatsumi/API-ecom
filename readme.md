@@ -30,18 +30,17 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 Como interagir com o localhost e localizar os dados:<br>
 <br>
  GET: <br>           
-- <a href="http://localhost:8888/produtoslista"> /produtoslista</a> <br>
-- <a href="http://localhost:8888/produtoid/:id">/produtoid/:id</a> <br>
-- <a href="http://localhost:8888/listaDepartamento"> /listaDepartamento</a> <br>
-- <a href="http://localhost:8888/departamento/:id"> /departamento/:id</a> <br>
+- <a href="http://localhost:8888/produtoslista"> /produtoslista</a>, retorna a lista de produtos<br> 
+- <a href="http://localhost:8888/produtoid/">/produtoid/:id</a>, retorna um unico material solicitado, infomrar após o /produto/ o número do produto <br>
+- <a href="http://localhost:8888/listaDepartamento"> /listaDepartamento</a>, retorna a lista de departamento <br>
+- <a href="http://localhost:8888/departamento/:id"> /departamento/:id</a>, retorna todos os itens de um unico departamento <br>
 <br>
 Dentro do Postman colocar a chamada POST:<br>
-- <a href="http://localhost:8888/incluirproduto"> /incluirproduto</a> <br>
+- <a href="http://localhost:8888/incluirproduto"> /incluirproduto</a>, inclui produtos na url <br>
 <br>
-PUT:<br>
+Dentro do Postman colocar a chamada PUT:<br>
 - <br>
-- <br>
-- <br>
+
 <br>    
 # Bibliotecas
 
