@@ -9,41 +9,41 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 
 # Baixando o projeto
 
-<h4>Desafio em grupo criando uma API:</h4>
+<h4>Desafio em grupo criando uma API:</h4> 
 
-Para baixar o repositório : <b>git clone  <a href="https://github.com/Luciana-mon/aula12restapi">https://github.com/Luciana-mon/aula12restapi </a> </b>
+Para baixar o repositório : <b>git clone  <a href="https://github.com/Luciana-mon/aula12restapi">https://github.com/Luciana-mon/aula12restapi </a> </b> <br>
 
-Para instalar as dependências do projeto: <b>npm install desafio_em_grupo_parte_I</b>
+Para instalar as dependências do projeto: <b>npm install desafio_em_grupo_parte_I</b> <br>
 
-Para iniciar a aplicação: <b>npm run dev </b>
+Para iniciar a aplicação: <b>npm run dev </b> <br>
 
 
 # Sobre o projeto
 
-Temos o arquivo index.js que irá executar a API.
+Temos o arquivo index.js que irá executar a API.<br>
 
 <p> Como executar a API: </p> <br>
       - abrir na web (firefox, chrome, explore) <a href="http://localhost:8000/">http://localhost:8000/</a> <br>;
-      - é possivel acessar através do <a href="https://www.postman.com/downloads/">postman, clique</a> <br>, para fazer o download;
+      - é possivel acessar através do <a href="https://www.postman.com/downloads/">postman, clique</a> <br>, para fazer o download; <br>
       
 Como interagir com o localhost e localizar os dados:<br>
-       GET: <br>           
-      - <a href="http://localhost:8000/rodutoslista"> /produtoslista</a></a> <br>
-      - <a href="http://localhost:8000/produtoid/:id">/produtoid/:id</a> <br>
-      - <a href="http://localhost:8000/listaDepartamento"> /listaDepartamento</a> <br>
-      - <a href="http://localhost:8000/departamento/:id"> /departamento/:id</a> <br>
-      
-      POST:<br>
-      - <br>
-      - <br>
-      - <br>
-      PUT:<br>
-      - <br>
-      - <br>
-      - <br>
+ GET: <br>           
+- <a href="http://localhost:8000/rodutoslista"> /produtoslista</a></a> <br>
+- <a href="http://localhost:8000/produtoid/:id">/produtoid/:id</a> <br>
+- <a href="http://localhost:8000/listaDepartamento"> /listaDepartamento</a> <br>
+- <a href="http://localhost:8000/departamento/:id"> /departamento/:id</a> <br>
+
+POST:<br>
+- <br>
+- <br>
+- <br>
+PUT:<br>
+- <br>
+- <br>
+- <br>
       
 # Bibbliotecas
 
-      - Express <br>
-      - nodemon <br>
-      - sucrase <br>
+- Express <br>
+- nodemon <br>
+- sucrase <br>
