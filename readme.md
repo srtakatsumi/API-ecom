@@ -11,16 +11,16 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 
 <h4>Desafio em grupo criando uma API:</h4> 
 
-Para baixar o repositório : <b>git clone  <a href="https://github.com/Luciana-mon/aula12restapi">https://github.com/Luciana-mon/aula12restapi </a> </b> <br>
+- Para baixar o repositório : <b>git clone  <a href="https://github.com/Luciana-mon/aula12restapi">https://github.com/Luciana-mon/aula12restapi </a> </b> <br>
 
-Para instalar as dependências do projeto: <b>npm install desafio_em_grupo_parte_I</b> <br>
+- Para instalar as dependências do projeto: <b>npm install desafio_em_grupo_parte_I</b> <br>
 
-Para iniciar a aplicação: <b>npm run dev </b> <br>
+- Para iniciar a aplicação: <b>npm run dev </b> <br>
+
+- Seguir o passo a passo do proximo topico <br>
 
 
 # Sobre o projeto
-
-Temos o arquivo index.js que irá executar a API.<br>
 
 <p> Como executar a API: </p> <br>
       - abrir na web (firefox, chrome, explore) <a href="http://localhost:8000/">http://localhost:8000/</a>; <br>
