@@ -42,7 +42,7 @@ PUT:<br>
 - <br>
 - <br>
       
-# Bibbliotecas
+# Bibliotecas
 
 - Express <br>
 - nodemon <br>
