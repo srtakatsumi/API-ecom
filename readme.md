@@ -37,7 +37,7 @@ Como interagir com o localhost e localizar os dados:<br>
             - <a href="http://localhost:8000/listaDepartamento"> /listaDepartamento</a> <br>
             - <a href="http://localhost:8000/departamento/:id"> /departamento/:id</a> <br>
       
-# Bibblioteca
+# Bibbliotecas
 
             - Express
             - nodemon
