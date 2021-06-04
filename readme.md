@@ -12,6 +12,8 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 <h4>Desafio em grupo criando uma API:</h4> 
 
 - Para baixar o repositório : <b>git clone  <a href="https://github.com/Luciana-mon/aula12restapi">https://github.com/Luciana-mon/aula12restapi </a> </b> <br>
+- Abrir o projeto no vscode <br>
+- Para baixar o projeto <b>npm intall </b> <br>
 
 - Para iniciar a aplicação: <b>npm run dev </b> <br>
 
@@ -28,15 +30,13 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 Como interagir com o localhost e localizar os dados:<br>
 <br>
  GET: <br>           
-- <a href="http://localhost:8888/rodutoslista"> /produtoslista</a></a> <br>
+- <a href="http://localhost:8888/produtoslista"> /produtoslista</a> <br>
 - <a href="http://localhost:8888/produtoid/:id">/produtoid/:id</a> <br>
 - <a href="http://localhost:8888/listaDepartamento"> /listaDepartamento</a> <br>
 - <a href="http://localhost:8888/departamento/:id"> /departamento/:id</a> <br>
 <br>
-POST:<br>
-- <br>
-- <br>
-- <br>
+Dentro do Postman colocar a chamada POST:<br>
+- <a href="http://localhost:8888/incluirproduto"> /incluirproduto</a> <br>
 <br>
 PUT:<br>
 - <br>
