@@ -13,7 +13,7 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 
 - Para baixar o repositório : <b>git clone  <a href="https://github.com/Luciana-mon/aula12restapi">https://github.com/Luciana-mon/aula12restapi </a> </b> <br>
 
-- Para instalar as dependências do projeto: <b>npm install desafio_em_grupo_parte_I</b> <br>
+- Para instalar as dependências do projeto: <b>npm install aula12restapi</b> <br>
 
 - Para iniciar a aplicação: <b>npm run dev </b> <br>
 
