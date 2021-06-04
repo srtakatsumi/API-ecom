@@ -27,13 +27,23 @@ Temos o arquivo index.js que irá executar a API.
       - é possivel acessar através do <a href="https://www.postman.com/downloads/">postman, clique</a> <br>, para fazer o download;
       
 Como interagir com o localhost e localizar os dados:<br>
-            - <a href="http://localhost:8000/rodutoslista"> /produtoslista</a></a> <br>
-            - <a href="http://localhost:8000/produtoid/:id">/produtoid/:id</a> <br>
-            - <a href="http://localhost:8000/listaDepartamento"> /listaDepartamento</a> <br>
-            - <a href="http://localhost:8000/departamento/:id"> /departamento/:id</a> <br>
+       GET: <br>           
+      - <a href="http://localhost:8000/rodutoslista"> /produtoslista</a></a> <br>
+      - <a href="http://localhost:8000/produtoid/:id">/produtoid/:id</a> <br>
+      - <a href="http://localhost:8000/listaDepartamento"> /listaDepartamento</a> <br>
+      - <a href="http://localhost:8000/departamento/:id"> /departamento/:id</a> <br>
+      
+      POST:<br>
+      - <br>
+      - <br>
+      - <br>
+      PUT:<br>
+      - <br>
+      - <br>
+      - <br>
       
 # Bibbliotecas
 
-            - Express
-            - nodemon
-            - sucrase
+      - Express <br>
+      - nodemon <br>
+      - sucrase <br>
