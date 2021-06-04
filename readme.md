@@ -26,8 +26,9 @@ Temos o arquivo index.js que irá executar a API.<br>
       - abrir na web (firefox, chrome, explore) <a href="http://localhost:8000/">http://localhost:8000/</a>; <br>
       - é possivel acessar através do <a href="https://www.postman.com/downloads/">postman, clique aqui</a>, para fazer o download; <br>
       - também é possivel utilizar o <a href="https://web.postman.co/home">postman online</a>.<br>
-      
+      <br>
 Como interagir com o localhost e localizar os dados:<br>
+<br>
  GET: <br>           
 - <a href="http://localhost:8000/rodutoslista"> /produtoslista</a></a> <br>
 - <a href="http://localhost:8000/produtoid/:id">/produtoid/:id</a> <br>
