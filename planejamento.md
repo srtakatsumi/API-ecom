@@ -8,7 +8,9 @@ Contexto:
 Proposta: Vamos dar continuidade ao projeto de e-commerce que iniciamos no primeiro desafio
 <a href="https://github.com/srtakatsumi/Gamma_Challenge">primeiro desafio</a>. Vamos trabalhar aspectos de construção em um BackEnd para expor uma API
 
-Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
+Prazo: 
+  - Primeira entrega dia 04/06 às 11:59:00 (antes do meio dia)
+  - Segunda entrega dia 11/06 às 11:59:00 (antes do meio dia)
 
 
 <p>Sprints: <br></p>
