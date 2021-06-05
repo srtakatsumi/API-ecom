@@ -11,7 +11,7 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 
 <h4>Desafio em grupo criando uma API:</h4> 
 
-- Para baixar o repositório : <b>git clone  <a href="https://github.com/Luciana-mon/aula12restapi">https://github.com/Luciana-mon/aula12restapi </a> </b> <br>
+- Para baixar o repositório : <b>git clone  <a href="https://github.com/srtakatsumi/API-ecom">https://github.com/srtakatsumi/API-ecom </a> </b> <br>
 - Abrir o projeto no vscode <br>
 - Para baixar o projeto <b>npm intall </b> <br>
 
@@ -33,7 +33,7 @@ Como interagir com o localhost e localizar os dados:<br>
 - <a href="http://localhost:8888/produtoslista"> /produtoslista</a>, retorna a lista de produtos<br> 
 - <a href="http://localhost:8888/produtoid/">/produtoid/:id</a>, retorna um unico material solicitado, infomrar após o /produto/ o número do produto <br>
 - <a href="http://localhost:8888/listaDepartamento"> /listaDepartamento</a>, retorna a lista de departamento <br>
-- <a href="http://localhost:8888/departamento/:id"> /departamento/:id</a>, retorna todos os itens de um unico departamento <br>
+- <a href="http://localhost:8888/departamento/"> /departamento/:id</a>, retorna todos os itens de um unico departamento <br>
 <br>
 Dentro do Postman colocar a chamada POST:<br>
 - <a href="http://localhost:8888/incluirproduto"> /incluirproduto</a>, inclui produtos na url <br>
@@ -47,3 +47,5 @@ Dentro do Postman colocar a chamada PUT:<br>
 - Express <br>
 - nodemon <br>
 - sucrase <br>
+- Mysql <br>
+- bpdy-parser <br>
