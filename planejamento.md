@@ -78,9 +78,9 @@ Prazo:
 
 # Sprint 04 - Entrega segunda parte
 
- _Nessa segunda parte iremos vincular o Script SQL para criação da base de dados, criação das tabelas e inserção dos dados
+ _Nessa segunda parte iremos vincular o Script SQL para criação da base de dados, criação das tabelas e inserção dos dados <br>
 
-otinas válidas para inserção de novos produtos (a operação POST /produto) deve inserir sim um novo produto na base de dados (podendo ser consultada depois pela operação GET /produto) e também a operação PUT deve alterar um produto existente e essa alteração ser refletida no registro do banco de dados.
+Rotinas válidas para inserção de novos produtos (a operação POST /produto) deve inserir sim um novo produto na base de dados (podendo ser consultada depois pela operação GET /produto) e também a operação PUT deve alterar um produto existente e essa alteração ser refletida no registro do banco de dados.
 
  Estimativa: 6 dias
    - [ ] Status da Sprint: PENDING 
