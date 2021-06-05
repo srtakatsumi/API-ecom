@@ -76,7 +76,7 @@ Prazo:
 |O código deve rodar sem exceptions                             |    1 hrs   | 31/05/21 |  04/06/21 |    TODES    |      DONE    |
 
 
-# Sprint 04 - Entrega primeira segunda parte
+# Sprint 04 - Entrega segunda parte
 
  _Nessa segunda parte iremos vincular o Script SQL para criação da base de dados, criação das tabelas e inserção dos dados
 
