@@ -51,4 +51,5 @@ Dentro do Postman colocar a chamada PUT:<br>
 - nodemon <br>
 - sucrase <br>
 - Mysql <br>
-- bpdy-parser <br>
+- body-parser <br>
+- react app <br>
