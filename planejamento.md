@@ -57,7 +57,7 @@ Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
 |/departamento/{id}                                             |    1 hrs   | 31/05/21 |  04/06/21 |   VICTORIA  |      DONE    |
 |Testes                                                         |    1 hrs   | 03/05/21 |  04/06/21 |    TODES    |      DONE    |
 
-# Sprint 03 - Entrega final 
+# Sprint 03 - Entrega primeira parte
   Nessa ultima etapa vamos falar validar se todos os requisitos para a entrega está correto
     - A descrição do README deve explicar desde baixar/clonar o repositório até quais dependências/bibliotecas foram utilizadas;
     - Base de testes, quais ID de produto ou departamento retornam valores válidos e quais retornam códigos referentes a IDs não encontrados ou mesmo quais casos de testes retornam BAD REQUEST
@@ -72,3 +72,23 @@ Prazo: entrega final dia 04/06 às 11:59:00 (antes do meio dia)
 |Descrição de como rodar tudo descrito no README do Repositório |    1 hrs   | 31/05/21 |  04/06/21 |    TODES    |      DONE    |
 |Base de testes                                                 |    1 hrs   | 31/05/21 |  04/06/21 |    TODES    |      DONE    |
 |O código deve rodar sem exceptions                             |    1 hrs   | 31/05/21 |  04/06/21 |    TODES    |      DONE    |
+
+
+# Sprint 04 - Entrega primeira segunda parte
+
+ _Nessa segunda parte iremos vincular o Script SQL para criação da base de dados, criação das tabelas e inserção dos dados
+
+otinas válidas para inserção de novos produtos (a operação POST /produto) deve inserir sim um novo produto na base de dados (podendo ser consultada depois pela operação GET /produto) e também a operação PUT deve alterar um produto existente e essa alteração ser refletida no registro do banco de dados.
+
+ Estimativa: 6 dias
+   - [ ] Status da Sprint: PENDING 
+
+|                            Tarefa                             | Estimativa |  Início  |  Término  | Responsável |   Status     |
+|---------------------------------------------------------------|------------|----------|-----------|-------------|--------------|
+|Reunião para ajustar o planejamento                            |    1 hrs   | 04/06/21 |  11/06/21 |       -     |   PENDING    |
+|Vincular o banco de dados no projeto                           |    1 hrs   | 04/06/21 |  11/06/21 |       -     |     WIP      |
+|Readme                                                         |    3 hrs   | 09/06/21 |  10/06/21 |       -     |   PENDING    |
+|Testes                                                         |    1 hrs   | 10/06/21 |  10/06/21 |       -     |   PENDING    |
+|Entrega do proejto                                             |    1 hrs   | 11/06/21 |  11/06/21 |       -     |   PENDING    |
+
+
