@@ -83,14 +83,14 @@ Prazo:
 Rotinas válidas para inserção de novos produtos (a operação POST /produto) deve inserir sim um novo produto na base de dados (podendo ser consultada depois pela operação GET /produto) e também a operação PUT deve alterar um produto existente e essa alteração ser refletida no registro do banco de dados.
 
  Estimativa: 6 dias
-   - [ ] Status da Sprint: PENDING 
+   - [x] Status da Sprint: DONE 
 
 |                            Tarefa                             | Estimativa |  Início  |  Término  | Responsável |   Status     |
 |---------------------------------------------------------------|------------|----------|-----------|-------------|--------------|
-|Reunião para ajustar o planejamento                            |    1 hrs   | 04/06/21 |  11/06/21 |       -     |   PENDING    |
-|Vincular o banco de dados no projeto                           |    1 hrs   | 04/06/21 |  11/06/21 |       -     |     WIP      |
-|Readme                                                         |    3 hrs   | 09/06/21 |  10/06/21 |       -     |   PENDING    |
-|Testes                                                         |    1 hrs   | 10/06/21 |  10/06/21 |       -     |   PENDING    |
-|Entrega do proejto                                             |    1 hrs   | 11/06/21 |  11/06/21 |       -     |   PENDING    |
+|Reunião para ajustar o planejamento                            |    1 hrs   | 04/06/21 |  11/06/21 |    TODES    |      DONE    |
+|Vincular o banco de dados no projeto                           |    1 hrs   | 04/06/21 |  11/06/21 |    TODES    |      DONE    |
+|Readme                                                         |    3 hrs   | 09/06/21 |  10/06/21 |    TODES    |      DONE    |
+|Testes                                                         |    1 hrs   | 10/06/21 |  10/06/21 |    TODES    |      DONE    |
+|Entrega do proejto                                             |    1 hrs   | 11/06/21 |  11/06/21 |    TODES    |      DONE    |
 
 
