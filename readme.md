@@ -11,7 +11,7 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 
 <h4>Desafio em grupo criando uma API:</h4> 
 
-- Para baixar o repositório : <b>git clone  <a href="https://github.com/srtakatsumi/API-ecom">https://github.com/srtakatsumi/API-ecom </a> </b> <br>
+- Para baixar o repositório : <b>git clone  <a href="https://github.com/Luciana-mon/API-Ecommerce/">https://github.com/Luciana-mon/API-Ecommerce/ </a> </b> <br>
 - Abrir o projeto no vscode <br>
 - Para baixar o projeto <b>npm intall </b> <br>
 
@@ -30,26 +30,30 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 Como interagir com o localhost e localizar os dados:<br>
 <br>
  GET: <br>           
-- <a href="http://localhost:8888/produtoslista"> /produtoslista</a>, retorna a lista de produtos<br> 
-- <a href="http://localhost:8888/produtoid/">/produtoid/:id</a>, retorna um unico material solicitado, infomrar após o /produto/ o número do produto <br>
-- <a href="http://localhost:8888/listaDepartamento"> /listaDepartamento</a>, retorna a lista de departamento <br>
-- <a href="http://localhost:8888/departamento/"> /departamento/:id</a>, retorna todos os itens de um unico departamento <br>
-<br>
-- <a href="http://localhost:8888/produtoid/2578"> /produtoid/:id</a>, retorna erro:  produto não encontrado. <br>
-- <a href="http://localhost:8888/departamento/15"> /departamento/:id</a>, retorna erro: departamento não encontrado. <br>
-<br>
-Dentro do Postman colocar a chamada POST:<br>
-- <a href="http://localhost:8888/incluirproduto"> /incluirproduto</a>, inclui produtos na url <br>
-<br>
-Dentro do Postman colocar a chamada PUT:<br>
-- <a href="http://localhost:8888/alterarproduto/">/alterarproduto/:id </a>, altera um unico produto<br>
+- <a href="http://localhost:8888/api/produtos/produtoslista">/api/produtos/produtoslista</a>, retorna a lista de produtos<br> 
+- <a href="http://localhost:8888/api/produtos/">/api/produtos/:idProduto</a>, retorna um unico material solicitado, informar após o /produtos/ o número do produto <br>
 
-<br>    
+- <a href="http://localhost:8888/api/produtos/idProduto/2578"> /api/produtos/produtoid/:id</a>, retorna erro:  produto não encontrado. <br>
+
+<br>
+
+
+Dentro do Postman colocar a chamada POST:<br>
+- <a href="http://localhost:8888/api/produtos/incluirproduto"> /api/produtos/incluirproduto</a>, inclui produtos na url <br>
+<br>
+
+
+Dentro do Postman colocar a chamada PUT:<br>
+- <a href="http://localhost:8888/api/produtos/">/api/produtos/:idProduto </a>, altera um unico produto<br>
+<br>
+
+Dentro do Postman colocar a chamada DELETE:<br>
+- <a href="http://localhost:8888/api/produtos/">/api/produtos/:idProduto </a>, deleta um unico produto <br>
+<br>
 # Bibliotecas
 
 - Express <br>
-- nodemon <br>
-- sucrase <br>
+- sequelize <br>
 - Mysql <br>
 - body-parser <br>
-- react app <br>
+- config <br>
