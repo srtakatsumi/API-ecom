@@ -13,7 +13,10 @@ A proposta do projeto de API é dar continuidade ao <a href="https://github.com/
 
 - Para baixar o repositório : <b>git clone  <a href="https://github.com/srtakatsumi/API-ecom">https://github.com/srtakatsumi/API-ecom </a> </b> <br>
 - Abrir o projeto no vscode <br>
-- Para baixar o projeto <b>npm intall </b> <br>
+- Abra o terminar e digite npm install Express sequelize mysql body-parser config
+- Após carregar, digite no terminal npm criartabelas 
+- após criar a tabela digite exit
+- E em seguida <b>npm intall </b> <br>
 
 - Para iniciar a aplicação: <b>npm run dev </b> <br>
 
