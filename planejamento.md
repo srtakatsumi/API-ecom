@@ -34,22 +34,21 @@ Prazo:
 
 |                        Tarefa                           | Estimativa |  Início  |  Término  |    Status    |
 |---------------------------------------------------------|------------|----------|-----------|--------------|
-|Reunião                                                  |    xxxx    | 26/08/21 |  26/08/21 |     DONE     |
-|Login do usuario                                         |   48 hrs   | 26/08/21 |  26/08/21 |    TO DO     |
+|Reunião                                                  |    xxxx    | 26/08/21 |  26/08/21 |    MAKING    |
 |Definir as telas**                                       |   48 hrs   | 26/08/21 |  26/08/21 |    TO DO     |
 |E-mail para empresa                                      |   30 min   | 29/08/21 |  29/08/21 |    TO DO     |
 |E-mail para envio de bug                                 |   30 min   | 29/08/21 |  29/08/21 |    TO DO     |
-|Escolher o nome do projeto                               |   3 hrs    | 20/05/21 |  31/08/21 |    TO DO     |
+|Definir nome do projeto                                  |   72 hrs   | 20/05/21 |  27/08/21 |    TO DO     |
 |Pesquisar todas as praias*                               |   3 hrs    | 20/05/21 |  31/08/21 |    TO DO     |
-|Planejar a Sprint das tarefas                            |   3 hrs    | 31/05/21 |  31/05/21 |    TO DO     |
 
-* Pesquisar as praias buscar as seguintes informações: Nome da praia, local, 
+
+* Pesquisar as praias buscar as seguintes informações: Nome da praia, local, descrição do local, armazenar fotos do local(colocar no onedrive ou no github)
 ** Definição de telas para definir o quais informações estarão no banco de dados.
 
 _______________________________________________________________________________________________________________
 
 
-# Sprint 02 - API 
+# Sprint 02 - Front-End 
 
   - E expor uma API para consultar/cadastrar os objetos no banco de dados
 
@@ -59,16 +58,26 @@ ________________________________________________________________________________
 
 |                            Tarefa                             | Estimativa |  Início  |  Término  |    Status    |
 |---------------------------------------------------------------|------------|----------|-----------|--------------|
-|Endpoint                                                       |    1 hrs   | 31/05/21 |  04/06/21 |    TO DO     |
-|/produto                                                       |    1 hrs   | 31/05/21 |  04/06/21 |    TO DO     |
-|/produto/{id}                                                  |    1 hrs   | 31/05/21 |  04/06/21 |    TO DO     |
-|/produto                                                       |    1 hrs   | 31/05/21 |  04/06/21 |    TO DO     |
-|/produto/{id}                                                  |    1 hrs   | 31/05/21 |  04/06/21 |    TO DO     |
-|/departamento                                                  |    1 hrs   | 31/05/21 |  04/06/21 |    TO DO     |
-|/departamento/{id}                                             |    1 hrs   | 31/05/21 |  04/06/21 |    TO DO     |
-|Testes                                                         |    1 hrs   | 03/05/21 |  04/06/21 |    TO DO     |
+|Login do usuario                                               |   48 hrs   | 26/08/21 |  26/08/21 |    TO DO     |
+|Casdastro de praias                                            |   48 hrs   | 26/08/21 |  26/08/21 |    TO DO     |
+|Testes                                                         |    1 hrs   | 31/05/21 |  04/06/21 |     TO DO    |
 
-# Sprint 03 - Testes
+
+# Sprint 0 - Back-End
+  Nessa ultima etapa vamos validar se todos os requisitos para a entrega está correto
+
+    
+ Estimativa: 1 dias
+   - [ ] Status da Sprint: TO DO 
+
+|                            Tarefa                             | Estimativa |  Início  |  Término  |   Status     |
+|---------------------------------------------------------------|------------|----------|-----------|--------------|
+|Banco de dados                                                 |    1 hrs   | 31/05/21 |  04/06/21 |     TO DO    |
+|Testes                                                         |    1 hrs   | 31/05/21 |  04/06/21 |     TO DO    |
+
+
+
+# Sprint 0 - Fase de testes
   Nessa ultima etapa vamos validar se todos os requisitos para a entrega está correto
 
     
@@ -81,7 +90,7 @@ ________________________________________________________________________________
 |Testes Front-end                                               |    1 hrs   | 31/05/21 |  04/06/21 |     TO DO    |
 
 
-# Sprint 04 - Redes sociais 
+# Sprint 0 - Redes sociais 
 
  _Nessa ultima parte vamos desenvolver as redes sociais dos projetos <br>
 
@@ -90,6 +99,8 @@ ________________________________________________________________________________
 
 |                            Tarefa                             | Estimativa |  Início  |  Término  |   Status     |
 |---------------------------------------------------------------|------------|----------|-----------|--------------|
+|Criar uma logo                                                 |    1 hrs   | 04/11/21 |  11/11/21 |     TO DO    |
+|Frase de efeito                                                |    1 hrs   | 04/11/21 |  11/11/21 |     TO DO    |
 |Instagram                                                      |    1 hrs   | 04/11/21 |  11/11/21 |     TO DO    |
 |Pagina no facebook / Perfil                                    |    1 hrs   | 04/11/21 |  11/11/21 |     TO DO    |
 |Twitter                                                        |    3 hrs   | 09/11/21 |  10/11/21 |     TO DO    |
