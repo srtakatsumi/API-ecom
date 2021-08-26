@@ -4,6 +4,7 @@
 Contexto:
  <p> SUBSTITUIR_Somos parte de uma equipe de desenvolvimento de software que está criando uma série de ferramentas para gestão de eCommerces. Neste sentido, precisamos atender algumas necessidades de gestores destas plataformas. Precisamos criar soluções para ajudar nossos gestores a extrair dados de inventários de seus respectivos estoques._ </p>
  
+ Objetivo: Mostrar aos usuarios se a praia é acessivel para banhistas. Exibir historico de ataques: tuburões, jacaré e aguas-vivas.
 
 Proposta: 
 <p> </p>
@@ -15,7 +16,7 @@ Prazo:
 <p>Sprints: <br></p>
        - Recursos Humanos:  Felipe, Italo e Victoria <br> 
        - Ferramentas: Noteebok, internet, livros e vídeos. <br>
-       - Softwares: IDE (Visual Code Studio), MongoDB, Express, NodeJS e MySQL <br>
+       - Softwares: IDE (Visual Code Studio), MongoDB, Express, NodeJS e React Native <br>
        
 
 # Sprint 01 - Reunião de organização
@@ -31,24 +32,23 @@ Prazo:
   Estimativa: 10 dias
    - [ ] Status da Sprint: TO DO
 
-
 |                        Tarefa                           | Estimativa |  Início  |  Término  |    Status    |
 |---------------------------------------------------------|------------|----------|-----------|--------------|
-|Reunião                                                  |    xxxx    | 26/08/21 |  26/08/21 |    MAKING    |
+|Reunião                                                  |    xxxx    | 26/08/21 |  26/08/21 |     DONE     |
 |Definir as telas**                                       |   48 hrs   | 26/08/21 |  26/08/21 |    TO DO     |
-|E-mail para empresa                                      |   30 min   | 29/08/21 |  29/08/21 |    TO DO     |
-|E-mail para envio de bug                                 |   30 min   | 29/08/21 |  29/08/21 |    TO DO     |
 |Definir nome do projeto                                  |   72 hrs   | 20/05/21 |  27/08/21 |    TO DO     |
 |Pesquisar todas as praias*                               |   3 hrs    | 20/05/21 |  31/08/21 |    TO DO     |
+|E-mail para empresa                                      |   30 min   | 29/08/21 |  29/08/21 |    TO DO     |
+|E-mail para envio de bug                                 |   30 min   | 29/08/21 |  29/08/21 |    TO DO     |
 
 
-* Pesquisar as praias buscar as seguintes informações: Nome da praia, local, descrição do local, armazenar fotos do local(colocar no onedrive ou no github)
-** Definição de telas para definir o quais informações estarão no banco de dados.
+* Pesquisar as praias buscar as seguintes informações: Nome da praia, local, descrição do local, armazenar fotos do local(colocar no onedrive ou no github)<br>
+** Definição de telas para definir o quais informações estarão no banco de dados.<br>
 
 _______________________________________________________________________________________________________________
 
 
-# Sprint 02 - Front-End 
+# Sprint 02 - Front-End / App
 
   - E expor uma API para consultar/cadastrar os objetos no banco de dados
 
@@ -60,7 +60,7 @@ ________________________________________________________________________________
 |---------------------------------------------------------------|------------|----------|-----------|--------------|
 |Login do usuario                                               |   48 hrs   | 26/08/21 |  26/08/21 |    TO DO     |
 |Casdastro de praias                                            |   48 hrs   | 26/08/21 |  26/08/21 |    TO DO     |
-|Testes                                                         |    1 hrs   | 31/05/21 |  04/06/21 |     TO DO    |
+|Testes                                                         |    1 hrs   | 31/05/21 |  04/06/21 |    TO DO     |
 
 
 # Sprint 0 - Back-End
